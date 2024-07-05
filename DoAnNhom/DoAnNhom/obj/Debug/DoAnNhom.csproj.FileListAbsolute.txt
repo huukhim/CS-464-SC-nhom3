@@ -1,0 +1,17 @@
+D:\DoAnNhom\DoAnNhom\bin\Debug\DoAnNhom.exe.config
+D:\DoAnNhom\DoAnNhom\bin\Debug\DoAnNhom.exe
+D:\DoAnNhom\DoAnNhom\bin\Debug\DoAnNhom.pdb
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.csprojAssemblyReference.cache
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.frm_Login.resources
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.Properties.Resources.resources
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.csproj.GenerateResource.cache
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.csproj.CoreCompileInputs.cache
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.exe
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.pdb
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.frm_Admin.resources
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.frm_BaoCao.resources
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.frm_DatHang.resources
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.frm_NhanVienBep.resources
+D:\DoAnNhom\DoAnNhom\obj\Debug\DoAnNhom.frm_ThuNgan.resources
+D:\DoAnNhom\DoAnNhom\bin\Debug\Database.mdf
+D:\DoAnNhom\DoAnNhom\bin\Debug\Database_log.ldf
